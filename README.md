@@ -1,2 +1,2 @@
-# Deep-learning
-深度学习课件
+#语音情绪识别课件
+Speech emotion recognition
